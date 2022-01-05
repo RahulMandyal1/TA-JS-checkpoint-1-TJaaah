@@ -24,7 +24,7 @@ while (i < 3) {
 ```js
 function check(num) {
   if (num > 5) {
-    return 'Bigger than 5';
+    return 'Bigger than 5'; 
   }
 
   if (num < 5) {
